@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Sou Especialista em Arquitetura de sistemas, já atuei com desenvolvimento backend e front usando a stack JS (node, react, react Native), trabalhei muito tempo com SOA, criando integrações entre sistemas atrávés de um barramento de integrações da IBM. 
+Sou especialista em Arquitetura de Sistemas, trabalhei muito tempo com SOA, criando integrações entre sistemas atrávés de um barramento de integrações da IBM, já atuei com desenvolvimento backend e front usando a stack JS (node, react, react Native), 
 
 Atualmente trabalho com api management, usando uma solução proprietária juntamente com o Api gateway KONG.
 
