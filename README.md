@@ -2,9 +2,10 @@
 
 ## Sobre mim
 
-Sou especialista em Arquitetura de Sistemas, trabalhei muito tempo com SOA, criando integrações entre sistemas atrávés de um barramento de integrações da IBM, já atuei com desenvolvimento backend e front usando a stack JS (node, react, react Native), 
+Sou especialista em Arquitetura de Sistemas, atualmente trabalho em um time de api management, usando uma solução proprietária juntamente com o Api gateway KONG.
+Trabalhei muito tempo com SOA, criando integrações entre sistemas atrávés de um barramento de integrações da IBM, desenvolvento integrações entre sistemas utilizando SOAP, REST, Filas MQ e CICS.
 
-Atualmente trabalho com api management, usando uma solução proprietária juntamente com o Api gateway KONG.
+Já atuei com desenvolvimento backend e front usando a stack JS (node, react, react Native).
 
 Estou participando do bootcamp da binance, tentando entrar no mundo de desenvolvimento blockchain.
 
