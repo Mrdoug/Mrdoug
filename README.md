@@ -22,7 +22,7 @@ Atuei nas áreas bancárias, seguros, agências de turismo e atualmente no Varej
 
 [![SOA](https://img.shields.io/badge/SOA-IIB_IBM-blue)](https://www.ibm.com/docs/pt-br/integration-bus/10.0?topic=overview-integration-bus-introduction)
 [![API](https://img.shields.io/badge/API_GATEWAY-KONG-green)](https://docs.konghq.com/gateway/latest/)
-[![Binance](https://img.shields.io/badge/WEB3-Blockchain-yellow)](https://docs.konghq.com/gateway/latest/)
+[![Binance](https://img.shields.io/badge/WEB3-Blockchain-yellow)](https://bitcoin.org/files/bitcoin-paper/bitcoin_pt_br.pdf)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
