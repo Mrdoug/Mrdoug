@@ -7,7 +7,7 @@ Trabalhei muito tempo com SOA, criando integrações entre sistemas atrávés de
 
 Já atuei com desenvolvimento backend e front usando a stack JS (node, react, react Native).
 
-Estou participando do bootcamp da binance, tentando entrar no mundo de desenvolvimento blockchain.
+Participei do bootcamp da binance, iniciando no mundo de desenvolvimento blockchain. Também realizei alguns treinamentos blockchain developer.
 
 Atuei nas áreas bancárias, seguros, agências de turismo e atualmente no Varejo.
 
